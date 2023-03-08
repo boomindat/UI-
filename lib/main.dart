@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
+//some change
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
   static const String _title = 'Flutter Stateful Clicker Counter';
@@ -89,4 +90,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
